@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">  
+
+<title>SUKEBAN GAMES OFFICIAL WEBFRONT &#8211; &quot;THE BOSS OF THIS FAMILY TOLD YOU YOU&#039;RE GONNA MAKE VIDEOGIOCHI. YOU MAKE VIDEOGIOCHI. SO SHUT THE F*** UP ABOUT IT.&quot;</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="SUKEBAN GAMES OFFICIAL WEBFRONT &raquo; Feed" href="https://sukeban.moe/index.php/feed/" />
+<link rel="alternate" type="application/rss+xml" title="SUKEBAN GAMES OFFICIAL WEBFRONT &raquo; Comments Feed" href="https://sukeban.moe/index.php/comments/feed/" />
+		
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://sukeban.moe/wp-includes/css/dist/block-library/style.min.css?ver=5.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='sukeban_zane-style-css'  href='https://sukeban.moe/wp-content/themes/sukeban_zane/style.css?ver=5.3.4' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='https://sukeban.moe/index.php/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://sukeban.moe/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://sukeban.moe/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.3.4" />
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #0c0709; }
+</style>
+	<link rel="icon" href="https://sukeban.moe/wp-content/uploads/2018/01/cropped-danathinks-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://sukeban.moe/wp-content/uploads/2018/01/cropped-danathinks-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://sukeban.moe/wp-content/uploads/2018/01/cropped-danathinks-180x180.png" />
+<meta name="msapplication-TileImage" content="https://sukeban.moe/wp-content/uploads/2018/01/cropped-danathinks-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			
+.entry-title a {font-size:30px}
+.site {background-color:black}
+p {color:#c9c9c9;line-height:1.9;font-size:19px}
+h3 {color:white}
+h1 a {color:white}
+h2 {color:white}
+h4 {color:white}
+.entry-title {color:white}
+.entry-title a {color:white}
+.wp-caption {color:gray}
+.postpulgar img { display: block;
+  margin-left: auto;
+  margin-right: auto;}
+li {color:white}
+body.custom-background {background-color:black}
+		</style>
+		</head>
+
+<body class="home blog custom-background group-blog hfeed">
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header" role="banner">
+		<div class="site-branding">
+		<a href='https://sukeban.moe'><img src='http://sukeban.moe/wp-content/uploads/2019/10/companylogosmall.gif'></img></a>
+							<h1 class="site-title"><a href="https://sukeban.moe/" rel="home">SUKEBAN GAMES OFFICIAL WEBFRONT</a></h1>
+							<p class="site-description">&quot;THE BOSS OF THIS FAMILY TOLD YOU YOU&#039;RE GONNA MAKE VIDEOGIOCHI. YOU MAKE VIDEOGIOCHI. SO SHUT THE F*** UP ABOUT IT.&quot;</p>
+					</div><!-- .site-branding -->
+
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">Primary Menu</button>
+			<div class="menu-menu-1-container"><ul id="primary-menu" class="menu"><li id="menu-item-248" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-248"><a href="http://sukeban.moe/" aria-current="page">Home</a></li>
+<li id="menu-item-250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-250"><a href="https://sukeban.moe/index.php/company/">Company</a></li>
+<li id="menu-item-251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-251"><a href="https://sukeban.moe/index.php/contact-us/">Contact Us</a></li>
+<li id="menu-item-252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-252"><a href="https://sukeban.moe/index.php/faq/">FAQ</a></li>
+<li id="menu-item-253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253"><a href="https://sukeban.moe/index.php/projects/">Projects</a></li>
+<li id="menu-item-254" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-254"><a href="https://tinyletter.com/sukebanfriends">Sukeban Friends</a></li>
+<li id="menu-item-498" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-498"><a href="http://log.sukeban.moe/">Progress Logs</a></li>
+</ul></div>		</nav><!-- #site-navigation -->
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+<article id="post-500" class="post-500 post type-post status-publish format-standard hentry category-announcements category-sukeban-games tag-n1rvanna tag-va-11-hall-a">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://sukeban.moe/index.php/2020/06/22/va-11-hall-a-is-4-years-old-today/" rel="bookmark">VA-11 Hall-A is 4 years old today</a></h2>		<div class="entry-meta">
+			<span class="posted-on">Posted on <a href="https://sukeban.moe/index.php/2020/06/22/va-11-hall-a-is-4-years-old-today/" rel="bookmark"><time class="entry-date published" datetime="2020-06-22T00:04:57+00:00">June 22, 2020</time><time class="updated" datetime="2020-07-03T15:02:35+00:00">July 3, 2020</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://sukeban.moe/index.php/author/kiririn51/">kiririn51</a></span></span>		</div><!-- .entry-meta -->
+				<div class='postpulgar'>
+		</div>
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		
+<p>Time flies.</p>
+
+
+
+<p>4 years ago the game that changed our lives was released. We thought it was gonna sell a couple thousand copies and ended up becoming a smash hit with well over half a million units sold.</p>
+
+
+
+<p>Over the years we’ve been pretty active, always finding a way to keep the game relevant; be with ports for different platforms, or the Daily Va11halla event every december and while I don’t think we’ll stop with this practice, I feel it’s time to “move on” – with this I mean we better start talking more about the future rather than just Valhalla.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="http://sukeban.moe/wp-content/uploads/2020/06/next-897x1024.png" alt="" class="wp-image-501" srcset="https://sukeban.moe/wp-content/uploads/2020/06/next-897x1024.png 897w, https://sukeban.moe/wp-content/uploads/2020/06/next-263x300.png 263w, https://sukeban.moe/wp-content/uploads/2020/06/next-768x877.png 768w, https://sukeban.moe/wp-content/uploads/2020/06/next.png 1280w" sizes="(max-width: 897px) 100vw, 897px" /></figure>
+
+
+
+<h2>The state of N1RV Ann-A</h2>
+
+
+
+<p> A lot has happened since the announcement of the new game in the franchise, but very few news. This was caused due to different circumstances, namely a continuation of a bad practice that began with Valhalla in which the programming relied solely on the shoulders of one person instead of a constant collaboration effort to build the game. The second is how life radically changed from one moment to the other. Something happened in Venezuela and we had to escape, making the team spread all over the world trying to start over on foreign soil – causing a dent in our mental health in the process. Development paused for a while due to these circumstances and only very recently picked up again with full steam. We are still trying to make the 2020 release window, but don’t be surprised if it gets pushed further into the future. The good news is that if it indeed gets delayed it won’t be by much, since our current workflow has never been so fast. We just ask for patience, this is the first time in years where we have a certain amount of stability in our lives to fully work on the stuff. </p>
+
+
+
+<h2>N1RV Ann-A is not the only thing coming soon</h2>
+
+
+
+<p>With a newfound way of working, knowledge, experience and an expanded team, we find ourselves in the perfect spot to handle more than one project and I’m happy to say more games will come from us – some might even release before N1rvanna, and I’m talking about full commercial projects too, from all kinds of genres.<br></p>
+
+
+
+<figure class="wp-block-image size-large"><img src="http://sukeban.moe/wp-content/uploads/2020/06/investigation.gif" alt="" class="wp-image-502"/></figure>
+
+
+
+<p> I can’t offer solid information about what we are working on, but you can get a glimpse of the development of each of these projects in our daily&nbsp;<a href="http://log.sukeban.moe/">devlog</a>. It’s mostly me who writes these, but it’s a good way to gauge where we are at the moment. </p>
+
+
+
+<h2>Last but not least&#8230;</h2>
+
+
+
+<p>We are announcing that a sequel to<a href="https://sukebangames.itch.io/valhallakids"> VA-11 Hall-A: KIDS</a>! is coming&#8230; In exactly a week, during Jill&#8217;s birthday! The name: VA-11 Hall-A SAISEI</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="http://sukeban.moe/wp-content/uploads/2020/06/image-1-1024x1024.png" alt="" class="wp-image-508" srcset="https://sukeban.moe/wp-content/uploads/2020/06/image-1-1024x1024.png 1024w, https://sukeban.moe/wp-content/uploads/2020/06/image-1-300x300.png 300w, https://sukeban.moe/wp-content/uploads/2020/06/image-1-150x150.png 150w, https://sukeban.moe/wp-content/uploads/2020/06/image-1-768x768.png 768w, https://sukeban.moe/wp-content/uploads/2020/06/image-1.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>A lot of people have clamored for a continuation of this <a href="https://sukebangames.itch.io/valhallakids">joke spin-off we made for April Fool&#8217;s </a>and <s>we&#8217;ll be delivering soon on the 27th of this month, for free. We just hope there&#8217;s no weird files inside it this time.</s> Well, this didn&#8217;t end up happening. Some extra time is needed to polish this, so please have some patience. Feel free to <a href="https://discord.gg/ZxJuvk6">join discord</a> and pester those involved with it about the release.</p>
+
+
+
+<p>Before we go, please go check the folks doing a<a href="https://twitter.com/va11halla_zine?s=20"> VA-11 Hall-A FanZine! </a> it&#8217;s full of cool stuff and we can&#8217;t wait to get our grubby mitts on those goods.</p>
+
+
+
+<p>That&#8217;d be for now, please stay tuned and sign up for <a href="https://tinyletter.com/sukebanfriends">our mail list!</a></p>
+
+
+
+<p></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="cat-links">Posted in <a href="https://sukeban.moe/index.php/category/announcements/" rel="category tag">Announcements</a>, <a href="https://sukeban.moe/index.php/category/sukeban-games/" rel="category tag">Sukeban Games</a></span><span class="tags-links">Tagged <a href="https://sukeban.moe/index.php/tag/n1rvanna/" rel="tag">n1rvanna</a>, <a href="https://sukeban.moe/index.php/tag/va-11-hall-a/" rel="tag">VA-11 Hall-A</a></span><span class="comments-link"><a href="https://sukeban.moe/index.php/2020/06/22/va-11-hall-a-is-4-years-old-today/#comments">13 Comments<span class="screen-reader-text"> on VA-11 Hall-A is 4 years old today</span></a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+<article id="post-461" class="post-461 post type-post status-publish format-standard hentry category-announcements">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://sukeban.moe/index.php/2020/02/24/sukeban-games-popularity-poll-2019-results/" rel="bookmark">Sukeban Games Popularity Poll 2019 Results!</a></h2>		<div class="entry-meta">
+			<span class="posted-on">Posted on <a href="https://sukeban.moe/index.php/2020/02/24/sukeban-games-popularity-poll-2019-results/" rel="bookmark"><time class="entry-date published" datetime="2020-02-24T14:54:45+00:00">February 24, 2020</time><time class="updated" datetime="2020-02-24T22:53:55+00:00">February 24, 2020</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://sukeban.moe/index.php/author/ironiclark/">Fernando Damas</a></span></span>		</div><!-- .entry-meta -->
+				<div class='postpulgar'>
+		</div>
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p><img class="aligncenter size-full wp-image-464" src="http://sukeban.moe/wp-content/uploads/2020/02/0-2.png" alt="" width="700" height="500" srcset="https://sukeban.moe/wp-content/uploads/2020/02/0-2.png 700w, https://sukeban.moe/wp-content/uploads/2020/02/0-2-300x214.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></p>
+<p>&nbsp;</p>
+<p><strong>日本語: <a href="http://sukeban.moe/index.php/2020/02/24/popularitypolljp/">http://sukeban.moe/index.php/2020/02/24/popularitypolljp/</a></strong><br />
+<strong>简体中文: <a href="http://sukeban.moe/index.php/2020/02/24/popularitypollcn/">http://sukeban.moe/index.php/2020/02/24/popularitypollcn/</a></strong></p>
+<p>Before starting, we want you to know that you’ve been heard! As such Fore has been honored with the Best Boy award to make up for the fact he wasn’t present in the poll in spite of unprecedented support for everyone’s favorite cat.</p>
+<p> <a href="https://sukeban.moe/index.php/2020/02/24/sukeban-games-popularity-poll-2019-results/#more-461" class="more-link">Continue reading <span class="screen-reader-text">&#8220;Sukeban Games Popularity Poll 2019 Results!&#8221;</span> <span class="meta-nav">&rarr;</span></a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="cat-links">Posted in <a href="https://sukeban.moe/index.php/category/announcements/" rel="category tag">Announcements</a></span><span class="comments-link"><a href="https://sukeban.moe/index.php/2020/02/24/sukeban-games-popularity-poll-2019-results/#comments">14 Comments<span class="screen-reader-text"> on Sukeban Games Popularity Poll 2019 Results!</span></a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+<article id="post-420" class="post-420 post type-post status-publish format-standard hentry category-sukeban-games">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://sukeban.moe/index.php/2019/08/06/the-girls-frontline-x-va-11-hall-a-collaboration-event-is-out/" rel="bookmark">The Girls Frontline x VA-11 Hall-A Collaboration Event is OUT!</a></h2>		<div class="entry-meta">
+			<span class="posted-on">Posted on <a href="https://sukeban.moe/index.php/2019/08/06/the-girls-frontline-x-va-11-hall-a-collaboration-event-is-out/" rel="bookmark"><time class="entry-date published updated" datetime="2019-08-06T18:36:25+00:00">August 6, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://sukeban.moe/index.php/author/ironiclark/">Fernando Damas</a></span></span>		</div><!-- .entry-meta -->
+				<div class='postpulgar'>
+		</div>
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p><img class="aligncenter size-full wp-image-421" src="http://sukeban.moe/wp-content/uploads/2019/08/photo_2019-08-07_02-40-05.jpg" alt="" width="1280" height="720" srcset="https://sukeban.moe/wp-content/uploads/2019/08/photo_2019-08-07_02-40-05.jpg 1280w, https://sukeban.moe/wp-content/uploads/2019/08/photo_2019-08-07_02-40-05-300x169.jpg 300w, https://sukeban.moe/wp-content/uploads/2019/08/photo_2019-08-07_02-40-05-768x432.jpg 768w, https://sukeban.moe/wp-content/uploads/2019/08/photo_2019-08-07_02-40-05-1024x576.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
+<p><span style="font-weight: 400;">The VA-11 Hall-A x <a href="http://gf.sunborngame.com/">Girls Frontline</a> collaboration is now online! There will be a time for sentimentality and how much the whole thing means to us, but today let’s talk about the game and dispel any doubts or concerns from the perspective of someone that started playing the game quite a while before the collab was even suggested. </span>Am I biased writing this? Of fucking course I am. It&#8217;s a game I love crossing over with a game I made. It&#8217;d be worrying if I WASN&#8217;T biased.</p>
+<p><span style="font-weight: 400;">So let’s get this question out of the way immediately: Could you get all the characters by the end of the event if you started just now? <strong>Yes</strong>, I’d say so.</span></p>
+<p> <a href="https://sukeban.moe/index.php/2019/08/06/the-girls-frontline-x-va-11-hall-a-collaboration-event-is-out/#more-420" class="more-link">Continue reading <span class="screen-reader-text">&#8220;The Girls Frontline x VA-11 Hall-A Collaboration Event is OUT!&#8221;</span> <span class="meta-nav">&rarr;</span></a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="cat-links">Posted in <a href="https://sukeban.moe/index.php/category/sukeban-games/" rel="category tag">Sukeban Games</a></span><span class="comments-link"><a href="https://sukeban.moe/index.php/2019/08/06/the-girls-frontline-x-va-11-hall-a-collaboration-event-is-out/#comments">18 Comments<span class="screen-reader-text"> on The Girls Frontline x VA-11 Hall-A Collaboration Event is OUT!</span></a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+<article id="post-407" class="post-407 post type-post status-publish format-standard has-post-thumbnail hentry category-announcements category-sukeban-games tag-va-11-hall-a">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://sukeban.moe/index.php/2019/05/02/va-11-hall-a-is-finally-out-on-switch-and-ps4/" rel="bookmark">VA-11 Hall-A is finally out on Switch and PS4</a></h2>		<div class="entry-meta">
+			<span class="posted-on">Posted on <a href="https://sukeban.moe/index.php/2019/05/02/va-11-hall-a-is-finally-out-on-switch-and-ps4/" rel="bookmark"><time class="entry-date published" datetime="2019-05-02T19:52:29+00:00">May 2, 2019</time><time class="updated" datetime="2019-05-02T21:57:39+00:00">May 2, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://sukeban.moe/index.php/author/kiririn51/">kiririn51</a></span></span>		</div><!-- .entry-meta -->
+				<div class='postpulgar'>
+		    <a href="https://sukeban.moe/index.php/2019/05/02/va-11-hall-a-is-finally-out-on-switch-and-ps4/" title="VA-11 Hall-A is finally out on Switch and PS4">
+        <img width="1044" height="1080" src="https://sukeban.moe/wp-content/uploads/2019/05/available.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://sukeban.moe/wp-content/uploads/2019/05/available.png 1044w, https://sukeban.moe/wp-content/uploads/2019/05/available-290x300.png 290w, https://sukeban.moe/wp-content/uploads/2019/05/available-768x794.png 768w, https://sukeban.moe/wp-content/uploads/2019/05/available-990x1024.png 990w" sizes="(max-width: 1044px) 100vw, 1044px" />    </a>
+</div>
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>It&#8217;s been a fairly long wait, but Valhalla is finally available on PlayStation 4 and Nintendo Switch. It was made with the intention to be as close as possible to the original release on Steam, so don&#8217;t expect new content! The Switch version does have some motion controls included as an optional input. Try it out and let us know if you liked it.</p>
+<h3><a href="https://store.playstation.com/en-us/product/UP2251-CUSA15402_00-VA11HALLANA00000">PlayStation Network</a></h3>
+<h3><a href="https://www.nintendo.com/games/detail/va-11-hall-a-cyberpunk-bartender-action-switch/"><strong>Nintendo eShop</strong></a></h3>
+<h3>New Merch</h3>
+<p><img class="alignnone wp-image-411 size-full" src="http://sukeban.moe/wp-content/uploads/2019/05/product_valhalla_track_jacket_main_1024x1024.png" alt="" width="900" height="600" srcset="https://sukeban.moe/wp-content/uploads/2019/05/product_valhalla_track_jacket_main_1024x1024.png 900w, https://sukeban.moe/wp-content/uploads/2019/05/product_valhalla_track_jacket_main_1024x1024-300x200.png 300w, https://sukeban.moe/wp-content/uploads/2019/05/product_valhalla_track_jacket_main_1024x1024-768x512.png 768w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<p>The folks at Fangamer came up with a really cool tracksuit inspired by the game, you can buy it <a href="https://www.fangamer.com/collections/va-11-hall-a/products/va-11-hall-a-track-jacket"><strong>right here</strong></a>!</p>
+<p><img class="alignnone wp-image-413 size-full" src="http://sukeban.moe/wp-content/uploads/2019/05/product_VH-pubglass_photo1_1024x1024-1.png" alt="" width="900" height="600" srcset="https://sukeban.moe/wp-content/uploads/2019/05/product_VH-pubglass_photo1_1024x1024-1.png 900w, https://sukeban.moe/wp-content/uploads/2019/05/product_VH-pubglass_photo1_1024x1024-1-300x200.png 300w, https://sukeban.moe/wp-content/uploads/2019/05/product_VH-pubglass_photo1_1024x1024-1-768x512.png 768w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<p>The glass and coaster set is also back in stock. <a href="https://www.fangamer.com/collections/va-11-hall-a/products/va-11-hall-a-pub-glass-coaster-set"><strong>Get it here</strong></a>.</p>
+<p>&nbsp;</p>
+<h3>The Future</h3>
+<p>I don&#8217;t know if the release for iOS is still happening, but with these ports I think we are done with Valhalla for a while. We would like to go full Skyrim with it though and release it in every new upcoming platform but time will tell. There&#8217;s Xbox One but we don&#8217;t call the shots on whether it gets released there, so I&#8217;m sorry to any Xbro reading this.</p>
+<p>That&#8217;d be all for today, see you guys soon.</p>
+<p>&nbsp;</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="cat-links">Posted in <a href="https://sukeban.moe/index.php/category/announcements/" rel="category tag">Announcements</a>, <a href="https://sukeban.moe/index.php/category/sukeban-games/" rel="category tag">Sukeban Games</a></span><span class="tags-links">Tagged <a href="https://sukeban.moe/index.php/tag/va-11-hall-a/" rel="tag">VA-11 Hall-A</a></span><span class="comments-link"><a href="https://sukeban.moe/index.php/2019/05/02/va-11-hall-a-is-finally-out-on-switch-and-ps4/#comments">1 Comment<span class="screen-reader-text"> on VA-11 Hall-A is finally out on Switch and PS4</span></a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+<article id="post-393" class="post-393 post type-post status-publish format-standard has-post-thumbnail hentry category-devlogs category-kiririns-corner tag-n1rvanna">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://sukeban.moe/index.php/2019/04/11/a-future-with-sam/" rel="bookmark">A future with Sam</a></h2>		<div class="entry-meta">
+			<span class="posted-on">Posted on <a href="https://sukeban.moe/index.php/2019/04/11/a-future-with-sam/" rel="bookmark"><time class="entry-date published updated" datetime="2019-04-11T14:41:27+00:00">April 11, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://sukeban.moe/index.php/author/kiririn51/">kiririn51</a></span></span>		</div><!-- .entry-meta -->
+				<div class='postpulgar'>
+		    <a href="https://sukeban.moe/index.php/2019/04/11/a-future-with-sam/" title="A future with Sam">
+        <img width="436" height="572" src="https://sukeban.moe/wp-content/uploads/2019/04/samsquat2.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://sukeban.moe/wp-content/uploads/2019/04/samsquat2.png 436w, https://sukeban.moe/wp-content/uploads/2019/04/samsquat2-229x300.png 229w" sizes="(max-width: 436px) 100vw, 436px" />    </a>
+</div>
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>Writing about Sam is a bit tricky, as it is with every character we want to talk about during pre-release days (we really get a kick out of surprising you). I will however go into some brief, possibly interesting bits that went into her creation and what you can expect from her once your grubby mitts are all over the game.</p>
+<p>So with Valhalla, Jill (main character) was this girl with the resting bitch face trying to get by in a harsh environment, what with the rampant crime and civil unrest going on outside of the bar limits. Her storyline was a bit divisive, with some people wanting to listen to the bar patrons rather than hear to Jill’s plight, while many others felt she was the most relatable video game character ever witnessed &#8211; and we are very happy with these reactions as making divisive aspects is a sign that we are doing something right.</p>
+<p>When the idea for Nirvana first surfaced, the idea of a bartender who was a mother was kind of an instant thought, something along the lines of writing someone who was the polar opposite to the previous main character, and that’s how Sam was born.</p>
+<p>Jill uses mostly dark colours, Sam has bright pink hair. Jill is a single 27 year old woman living alone in a tiny apartment, Sam is a 32 year-old mother in a (rocky) relationship, not to mention that Saint Alicia, the place where Nirvana takes place, is pretty much heaven compared to Glitch City, and so on.</p>
+<p>The biggest difference however… is that Sam smiles a lot!</p>
+<p><figure id="attachment_402" aria-describedby="caption-attachment-402" style="width: 409px" class="wp-caption aligncenter"><a href="http://sukeban.moe/wp-content/uploads/2019/04/first.png"><img class="wp-image-402 size-full" src="http://sukeban.moe/wp-content/uploads/2019/04/first.png" alt="" width="409" height="634" srcset="https://sukeban.moe/wp-content/uploads/2019/04/first.png 409w, https://sukeban.moe/wp-content/uploads/2019/04/first-194x300.png 194w" sizes="(max-width: 409px) 100vw, 409px" /></a><figcaption id="caption-attachment-402" class="wp-caption-text">First ever sketch I did of Sam. Not a whole lot changed except for the way I draw the hair (had to modify it in order to do the anime bits you saw in the trailer).</figcaption></figure></p>
+<p>&nbsp;</p>
+<p>Many people have also pointed out that she has a cute accent going on. That one’s a work in progress but her way of talking is also very important in this quest to differentiate her from Jill. And it’s not like her whole deal is being the opposite to Jill, but rather that all the good ideas that occurred to us happened to be very different from her, so took the ball and ran with it as they say. We also refuse to make Valhalla again, as it was made in a very specific moment in time and its magic is impossible to replicate, and the sooner we stop chasing that lighting the better as we wouldn&#8217;t want to taint the memories you have of it.</p>
+<p>One fun fact is that some folks already hate Sam because I was too horny last year and gave her a big bosom, which is understandable but you should know enough about us to trust our judgement in this kinda thing. We’ll just let the game speak for itself when the time comes, as we always do.</p>
+<p>So what can you expect from Sam? We really don’t wanna spoil anything, but you should look forward to a more cheerful person crafting the cocktails this time around, someone who is still coming to terms with motherhood, a troubled past and a relationship she’s not really feeling anymore. Probably less relatable to the average Sukeban Games fan, but I think her story goes beyond these superficial aspects and we have no doubt you’ll end up loving her, and being reminded of yourself or somebody else while playing. Relationships are a universal thing after all.</p>
+<p>Here are some non-spoilerific facts about her:</p>
+<p>She’s Sam!<br />
+She’s cute!<br />
+She has pink hair!<br />
+CUTE!!!<br />
+She loves a good beer and tries too hard to be a good mom, to her own detriment.</p>
+<p>By the way, we have some cool news to share later, but let me say right now that we are currently working on a public demo &#8211; that’s right, just like the one we made featuring Anna way back in 2015. Using all the feedback we got from the trade show demos we managed to improve the game a lot, so we are pretty excited about it.</p>
+<p>We don’t have a solid timeline for this, but we are doing our best to make it a thing.</p>
+<p>For now, please wish list Nirvana if you haven’t already, it really helps with visibility on Steam!</p>
+<p><a href="https://store.steampowered.com/app/914210/N1RV_AnnA_Cyberpunk_Bartender_Action/">https://store.steampowered.com/app/914210/N1RV_AnnA_Cyberpunk_Bartender_Action/</a></p>
+<p>And sign up to our mail list right here, so you get all the juicy and important Sukeban news.</p>
+<p><a href="https://tinyletter.com/sukebanfriends">https://tinyletter.com/sukebanfriends</a></p>
+<p>Ahí nos olemos.</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="cat-links">Posted in <a href="https://sukeban.moe/index.php/category/devlogs/" rel="category tag">Devlogs</a>, <a href="https://sukeban.moe/index.php/category/kiririns-corner/" rel="category tag">Kiririn's Corner</a></span><span class="tags-links">Tagged <a href="https://sukeban.moe/index.php/tag/n1rvanna/" rel="tag">n1rvanna</a></span><span class="comments-link"><a href="https://sukeban.moe/index.php/2019/04/11/a-future-with-sam/#comments">24 Comments<span class="screen-reader-text"> on A future with Sam</span></a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+<article id="post-389" class="post-389 post type-post status-publish format-standard hentry category-announcements">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://sukeban.moe/index.php/2019/04/01/if-we-could-be-serious-for-a-minute/" rel="bookmark">If We Could Be Serious For A Minute</a></h2>		<div class="entry-meta">
+			<span class="posted-on">Posted on <a href="https://sukeban.moe/index.php/2019/04/01/if-we-could-be-serious-for-a-minute/" rel="bookmark"><time class="entry-date published" datetime="2019-04-01T02:37:12+00:00">April 1, 2019</time><time class="updated" datetime="2019-04-01T02:41:54+00:00">April 1, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://sukeban.moe/index.php/author/ironiclark/">Fernando Damas</a></span></span>		</div><!-- .entry-meta -->
+				<div class='postpulgar'>
+		</div>
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p><span style="font-weight: 400;">Sukeban Games is not fine.</span></p>
+<p><span style="font-weight: 400;">During this date we would be revealing an April Fools joke like the Switch port that ended up being real, and VA11HALLA kids that also ended up being real.</span></p>
+<p><span style="font-weight: 400;">Today, we would like to get real about our current situation since we feel it would be a disservice to our audience to keep pretending we are in a healthy situation.</span></p>
+<p> <a href="https://sukeban.moe/index.php/2019/04/01/if-we-could-be-serious-for-a-minute/#more-389" class="more-link">Continue reading <span class="screen-reader-text">&#8220;If We Could Be Serious For A Minute&#8221;</span> <span class="meta-nav">&rarr;</span></a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="cat-links">Posted in <a href="https://sukeban.moe/index.php/category/announcements/" rel="category tag">Announcements</a></span><span class="comments-link"><a href="https://sukeban.moe/index.php/2019/04/01/if-we-could-be-serious-for-a-minute/#comments">75 Comments<span class="screen-reader-text"> on If We Could Be Serious For A Minute</span></a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+<article id="post-348" class="post-348 post type-post status-publish format-standard hentry category-devlogs">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://sukeban.moe/index.php/2018/11/20/n1rv-ann-a-devlog-2-the-weight-of-a-text-heavy-game/" rel="bookmark">N1RV Ann-A Devlog 2: The weight of a text-heavy game</a></h2>		<div class="entry-meta">
+			<span class="posted-on">Posted on <a href="https://sukeban.moe/index.php/2018/11/20/n1rv-ann-a-devlog-2-the-weight-of-a-text-heavy-game/" rel="bookmark"><time class="entry-date published" datetime="2018-11-20T16:37:36+00:00">November 20, 2018</time><time class="updated" datetime="2018-11-20T18:27:21+00:00">November 20, 2018</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://sukeban.moe/index.php/author/ironiclark/">Fernando Damas</a></span></span>		</div><!-- .entry-meta -->
+				<div class='postpulgar'>
+		</div>
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>&nbsp;</p>
+<p><img class="aligncenter size-full wp-image-356" src="http://sukeban.moe/wp-content/uploads/2018/11/JacobSwaggedUp-D-Frag-03-BD-1280x720.mp4_snapshot_18.09_2018.11.19_11.40.15.jpg" alt="" width="1280" height="720" srcset="https://sukeban.moe/wp-content/uploads/2018/11/JacobSwaggedUp-D-Frag-03-BD-1280x720.mp4_snapshot_18.09_2018.11.19_11.40.15.jpg 1280w, https://sukeban.moe/wp-content/uploads/2018/11/JacobSwaggedUp-D-Frag-03-BD-1280x720.mp4_snapshot_18.09_2018.11.19_11.40.15-300x169.jpg 300w, https://sukeban.moe/wp-content/uploads/2018/11/JacobSwaggedUp-D-Frag-03-BD-1280x720.mp4_snapshot_18.09_2018.11.19_11.40.15-768x432.jpg 768w, https://sukeban.moe/wp-content/uploads/2018/11/JacobSwaggedUp-D-Frag-03-BD-1280x720.mp4_snapshot_18.09_2018.11.19_11.40.15-1024x576.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
+<p><span style="font-weight: 400;">On August 2014 VA-11 Hall-A gave its first baby steps into a full-on release. Prologue, a side story meant to tide people over while we finished the full product, was finally out in the wild. During this release I was on vacation with my family in Margarita, an island north of Venezuela. I took with me the laptop I bought with our first advance payment from Ysbryd and decided to work whenever we were back into the residence we rented.</span></p>
+<p><span style="font-weight: 400;">At this time we just jumped ship from Ren’Py to GameMaker Studio. Tided over by the idea of easier console porting (Vita in particular) and a couple of technical ceilings that we encountered with Ren’Py (Specifically that the pixels didn’t look crisp unless you were in full screen and freezes whenever we tried to use drag-and-drop). At this point we were asked if we could have a playable build in Game Maker, and I complied, confident by how I was able to port over the mixing mechanics from Ren’Py into GameMaker.</span></p>
+<p><span style="font-weight: 400;">Like these stories usually go, my confidence got trampled upon time and time again.</span></p>
+<p> <a href="https://sukeban.moe/index.php/2018/11/20/n1rv-ann-a-devlog-2-the-weight-of-a-text-heavy-game/#more-348" class="more-link">Continue reading <span class="screen-reader-text">&#8220;N1RV Ann-A Devlog 2: The weight of a text-heavy game&#8221;</span> <span class="meta-nav">&rarr;</span></a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="cat-links">Posted in <a href="https://sukeban.moe/index.php/category/devlogs/" rel="category tag">Devlogs</a></span><span class="comments-link"><a href="https://sukeban.moe/index.php/2018/11/20/n1rv-ann-a-devlog-2-the-weight-of-a-text-heavy-game/#comments">8 Comments<span class="screen-reader-text"> on N1RV Ann-A Devlog 2: The weight of a text-heavy game</span></a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+<article id="post-310" class="post-310 post type-post status-publish format-standard hentry category-devlogs">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://sukeban.moe/index.php/2018/10/22/n1rv-ann-a-devlog-1-moving-forward/" rel="bookmark">N1RV Ann-A Devlog 1: Moving Forward</a></h2>		<div class="entry-meta">
+			<span class="posted-on">Posted on <a href="https://sukeban.moe/index.php/2018/10/22/n1rv-ann-a-devlog-1-moving-forward/" rel="bookmark"><time class="entry-date published" datetime="2018-10-22T03:06:28+00:00">October 22, 2018</time><time class="updated" datetime="2018-10-22T04:22:49+00:00">October 22, 2018</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://sukeban.moe/index.php/author/ironiclark/">Fernando Damas</a></span></span>		</div><!-- .entry-meta -->
+				<div class='postpulgar'>
+		</div>
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p><img class="aligncenter size-full wp-image-340" src="http://sukeban.moe/wp-content/uploads/2018/10/tumblr_oumhyoC9H61sqb41qo1_1280.jpg" alt="" width="1280" height="720" srcset="https://sukeban.moe/wp-content/uploads/2018/10/tumblr_oumhyoC9H61sqb41qo1_1280.jpg 1280w, https://sukeban.moe/wp-content/uploads/2018/10/tumblr_oumhyoC9H61sqb41qo1_1280-300x169.jpg 300w, https://sukeban.moe/wp-content/uploads/2018/10/tumblr_oumhyoC9H61sqb41qo1_1280-768x432.jpg 768w, https://sukeban.moe/wp-content/uploads/2018/10/tumblr_oumhyoC9H61sqb41qo1_1280-1024x576.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
+<p><span style="font-weight: 400;">There’s a saying in Venezuela that goes “Flojo trabaja doble” which roughly means “Lazy people end up working twice as much” (in one of the rare instances where the english version is longer than the spanish one), this saying usually goes to those situations where not thinking ahead ends up causing you to work more in the long run.</span></p>
+<p><span style="font-weight: 400;">And while “lazy” is not the right word in this context, it is the right general idea, since for the first devlog we want to describe our focus moving forward, the lessons learned in VA-11 Hall-A that are already showing up in N1RV Ann-A and NEXT GAME.</span></p>
+<p> <a href="https://sukeban.moe/index.php/2018/10/22/n1rv-ann-a-devlog-1-moving-forward/#more-310" class="more-link">Continue reading <span class="screen-reader-text">&#8220;N1RV Ann-A Devlog 1: Moving Forward&#8221;</span> <span class="meta-nav">&rarr;</span></a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="cat-links">Posted in <a href="https://sukeban.moe/index.php/category/devlogs/" rel="category tag">Devlogs</a></span><span class="comments-link"><a href="https://sukeban.moe/index.php/2018/10/22/n1rv-ann-a-devlog-1-moving-forward/#comments">18 Comments<span class="screen-reader-text"> on N1RV Ann-A Devlog 1: Moving Forward</span></a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+<article id="post-298" class="post-298 post type-post status-publish format-standard has-post-thumbnail hentry category-announcements category-sukeban-games tag-nintendo-switch tag-playstation-4 tag-va-11-hall-a">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://sukeban.moe/index.php/2018/10/18/in-case-you-missed-it-va-11-hall-a-is-coming-to-nintendo-switch-and-playstation-4/" rel="bookmark">In case you missed it: VA-11 Hall-A is coming to Nintendo Switch (and PlayStation 4)</a></h2>		<div class="entry-meta">
+			<span class="posted-on">Posted on <a href="https://sukeban.moe/index.php/2018/10/18/in-case-you-missed-it-va-11-hall-a-is-coming-to-nintendo-switch-and-playstation-4/" rel="bookmark"><time class="entry-date published updated" datetime="2018-10-18T20:55:55+00:00">October 18, 2018</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://sukeban.moe/index.php/author/kiririn51/">kiririn51</a></span></span>		</div><!-- .entry-meta -->
+				<div class='postpulgar'>
+		    <a href="https://sukeban.moe/index.php/2018/10/18/in-case-you-missed-it-va-11-hall-a-is-coming-to-nintendo-switch-and-playstation-4/" title="In case you missed it: VA-11 Hall-A is coming to Nintendo Switch (and PlayStation 4)">
+        <img width="2152" height="1336" src="https://sukeban.moe/wp-content/uploads/2018/10/commission.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://sukeban.moe/wp-content/uploads/2018/10/commission.png 2152w, https://sukeban.moe/wp-content/uploads/2018/10/commission-300x186.png 300w, https://sukeban.moe/wp-content/uploads/2018/10/commission-768x477.png 768w, https://sukeban.moe/wp-content/uploads/2018/10/commission-1024x636.png 1024w" sizes="(max-width: 2152px) 100vw, 2152px" />    </a>
+</div>
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<h5><em>Header by the lovely <a href="https://twitter.com/Merenge_doll/">@merenge_doll</a></em></h5>
+<p>We still receive this question a lot, so I feel it&#8217;s worth to publish a friendly reminder that VA-11 Hall-A is indeed coming to Nintendo Switch (and PlayStation 4) in early 2019.</p>
+<p> <a href="https://sukeban.moe/index.php/2018/10/18/in-case-you-missed-it-va-11-hall-a-is-coming-to-nintendo-switch-and-playstation-4/#more-298" class="more-link">Continue reading <span class="screen-reader-text">&#8220;In case you missed it: VA-11 Hall-A is coming to Nintendo Switch (and PlayStation 4)&#8221;</span> <span class="meta-nav">&rarr;</span></a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="cat-links">Posted in <a href="https://sukeban.moe/index.php/category/announcements/" rel="category tag">Announcements</a>, <a href="https://sukeban.moe/index.php/category/sukeban-games/" rel="category tag">Sukeban Games</a></span><span class="tags-links">Tagged <a href="https://sukeban.moe/index.php/tag/nintendo-switch/" rel="tag">nintendo switch</a>, <a href="https://sukeban.moe/index.php/tag/playstation-4/" rel="tag">playstation 4</a>, <a href="https://sukeban.moe/index.php/tag/va-11-hall-a/" rel="tag">VA-11 Hall-A</a></span><span class="comments-link"><a href="https://sukeban.moe/index.php/2018/10/18/in-case-you-missed-it-va-11-hall-a-is-coming-to-nintendo-switch-and-playstation-4/#comments">1 Comment<span class="screen-reader-text"> on In case you missed it: VA-11 Hall-A is coming to Nintendo Switch (and PlayStation 4)</span></a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+<article id="post-286" class="post-286 post type-post status-publish format-standard hentry category-announcements category-sukeban-games">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://sukeban.moe/index.php/2018/09/18/announcing-cyberpunk-bartender-action-n1rv-ann-a/" rel="bookmark">Announcing Cyberpunk Bartender Action N1RV Ann-A</a></h2>		<div class="entry-meta">
+			<span class="posted-on">Posted on <a href="https://sukeban.moe/index.php/2018/09/18/announcing-cyberpunk-bartender-action-n1rv-ann-a/" rel="bookmark"><time class="entry-date published updated" datetime="2018-09-18T14:01:32+00:00">September 18, 2018</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://sukeban.moe/index.php/author/kiririn51/">kiririn51</a></span></span>		</div><!-- .entry-meta -->
+				<div class='postpulgar'>
+		</div>
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p><iframe width="640" height="360" src="https://www.youtube.com/embed/X85KOAYfObc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>It is with great pleasure that we announce that a new game in the Cyberpunk Bartender Action series is in the works! featuring a whole new cast and new ways to play and see the story unfold.</p>
+<p>The story this time around is about Sam, a bartender living in Saint Alicia; an artificial island that, just like Glitch City, was developed as a playground for corporations that have been forming city states of their own around the globe in order to circumvent regulations. Sam is at odds with her romantic partner, Leon, who is the head of a small Yakuza family that operates at the redlight district. Their relationship is in the rocks, as they deal with the conflicts arising from their very different lives while taking care of their 8 year-old boy, Tony, who&#8217;s growing up in a increasingly harsher society.</p>
+<p>The game has been in development for about nine months and we decided it was in a good enough state to be shown. It will be a stand-alone game, meaning that you don&#8217;t have to play VA-11 Hall-A in order to enjoy it (but it will certainly give you insight into existing lore).  It will also feature big improvements over VA-11 Hall-A in many aspects, but you&#8217;ll have to wait a bit more to find out.</p>
+<p><a href="http://sukeban.moe/wp-content/uploads/2018/09/n4.gif"><img class="aligncenter size-full wp-image-291" src="http://sukeban.moe/wp-content/uploads/2018/09/n4.gif" alt="" width="1920" height="1080" /></a></p>
+<p>A lot of work has gone into this reveal so I want to thank to everyone involved in this project. It&#8217;s been a huge pleasure to go back to the world we started with Valhalla and it certainly won&#8217;t be the last title to do so!</p>
+<p>Now go ahead and check out the website at <a href="http://nirvana.bar">nirvana.bar</a> to get some juicy screenshots!</p>
+<h4>Regarding Next Game</h4>
+<p>It&#8217;s not cancelled, it doesn&#8217;t have a lower priority, it wasn&#8217;t made as a red herring. We expanded the staff (just one extra programmer) to be able to handle more than one project at a time and this one is going just fine, we just decided to reveal N1RV Ann-A first because it was the most polished one at the moment. Next Game is our biggest project to date and as such it needs more time to get pretty before we can show you gameplay. Hopefully there&#8217;s as much excitement for it as N1RV Ann-A going forward.</p>
+<p>&nbsp;</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="cat-links">Posted in <a href="https://sukeban.moe/index.php/category/announcements/" rel="category tag">Announcements</a>, <a href="https://sukeban.moe/index.php/category/sukeban-games/" rel="category tag">Sukeban Games</a></span><span class="comments-link"><a href="https://sukeban.moe/index.php/2018/09/18/announcing-cyberpunk-bartender-action-n1rv-ann-a/#comments">34 Comments<span class="screen-reader-text"> on Announcing Cyberpunk Bartender Action N1RV Ann-A</span></a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+	<nav class="navigation posts-navigation" role="navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Posts navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://sukeban.moe/index.php/page/2/" >Older posts</a></div></div>
+	</nav>
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="site-info">
+			©2020 Sukeban Games
+			| <a href="https://wordpress.org/">Proudly powered by WordPress</a>
+			<span class="sep"> | </span>
+			Theme: sukeban_zane by <a href="https://automattic.com/" rel="designer">kiririn51</a>.		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='https://sukeban.moe/wp-content/themes/sukeban_zane/js/navigation.js?ver=20151215'></script>
+<script type='text/javascript' src='https://sukeban.moe/wp-content/themes/sukeban_zane/js/skip-link-focus-fix.js?ver=20151215'></script>
